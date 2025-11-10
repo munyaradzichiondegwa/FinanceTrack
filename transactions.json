@@ -1,0 +1,34 @@
+[
+  {
+    "$type": "income",
+    "AmountField": 500,
+    "Amount": 500,
+    "Date": "2025-11-10T04:31:45.0700217+02:00",
+    "Description": "salary",
+    "Category": 2
+  },
+  {
+    "$type": "expense",
+    "AmountField": 20,
+    "Amount": -20,
+    "Date": "2025-11-10T05:08:59.9827186+02:00",
+    "Description": "Transport ",
+    "Category": 1
+  },
+  {
+    "$type": "expense",
+    "AmountField": 200,
+    "Amount": -200,
+    "Date": "2025-11-10T05:09:27.7865486+02:00",
+    "Description": "Food",
+    "Category": 3
+  },
+  {
+    "$type": "expense",
+    "AmountField": 35,
+    "Amount": -35,
+    "Date": "2025-11-10T05:11:27.9192606+02:00",
+    "Description": "Lights and Rates",
+    "Category": 4
+  }
+]

@@ -12,3 +12,4 @@ C:\Users\chion\OneDrive\Desktop\FinanceTrack\FinanceTrack\obj\Debug\net8.0\refin
 C:\Users\chion\OneDrive\Desktop\FinanceTrack\FinanceTrack\obj\Debug\net8.0\FinanceTrack.pdb
 C:\Users\chion\OneDrive\Desktop\FinanceTrack\FinanceTrack\obj\Debug\net8.0\FinanceTrack.genruntimeconfig.cache
 C:\Users\chion\OneDrive\Desktop\FinanceTrack\FinanceTrack\obj\Debug\net8.0\ref\FinanceTrack.dll
+C:\Users\chion\OneDrive\Desktop\FinanceTrack\FinanceTrack\obj\Debug\net8.0\FinanceTrack.sourcelink.json
