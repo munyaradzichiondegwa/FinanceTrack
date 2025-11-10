@@ -1,34 +1,50 @@
 [
   {
     "$type": "income",
-    "AmountField": 500,
-    "Amount": 500,
-    "Date": "2025-11-10T04:31:45.0700217+02:00",
+    "AmountField": 1000,
+    "Amount": 1000,
+    "Date": "2025-11-10T14:17:02.7468929+02:00",
     "Description": "salary",
     "Category": 2
   },
   {
     "$type": "expense",
-    "AmountField": 20,
-    "Amount": -20,
-    "Date": "2025-11-10T05:08:59.9827186+02:00",
-    "Description": "Transport ",
+    "AmountField": 75,
+    "Amount": -75,
+    "Date": "2025-11-10T14:17:33.4261312+02:00",
+    "Description": "food",
+    "Category": 0
+  },
+  {
+    "$type": "expense",
+    "AmountField": 125,
+    "Amount": -125,
+    "Date": "2025-11-10T14:18:27.4329505+02:00",
+    "Description": "Transport",
     "Category": 1
   },
   {
     "$type": "expense",
-    "AmountField": 200,
-    "Amount": -200,
-    "Date": "2025-11-10T05:09:27.7865486+02:00",
-    "Description": "Food",
-    "Category": 3
+    "AmountField": 167,
+    "Amount": -167,
+    "Date": "2025-11-10T14:19:23.7453179+02:00",
+    "Description": "water and lights",
+    "Category": 4
   },
   {
     "$type": "expense",
-    "AmountField": 35,
-    "Amount": -35,
-    "Date": "2025-11-10T05:11:27.9192606+02:00",
-    "Description": "Lights and Rates",
-    "Category": 4
+    "AmountField": 450,
+    "Amount": -450,
+    "Date": "2025-11-10T14:26:14.5162923+02:00",
+    "Description": "groceries",
+    "Category": 0
+  },
+  {
+    "$type": "expense",
+    "AmountField": 85,
+    "Amount": -85,
+    "Date": "2025-11-10T14:27:31.22215+02:00",
+    "Description": "movies",
+    "Category": 3
   }
 ]
