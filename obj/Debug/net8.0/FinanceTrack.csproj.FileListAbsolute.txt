@@ -1,0 +1,14 @@
+C:\Users\chion\OneDrive\Desktop\FinanceTrack\FinanceTrack\bin\Debug\net8.0\FinanceTrack.exe
+C:\Users\chion\OneDrive\Desktop\FinanceTrack\FinanceTrack\bin\Debug\net8.0\FinanceTrack.deps.json
+C:\Users\chion\OneDrive\Desktop\FinanceTrack\FinanceTrack\bin\Debug\net8.0\FinanceTrack.runtimeconfig.json
+C:\Users\chion\OneDrive\Desktop\FinanceTrack\FinanceTrack\bin\Debug\net8.0\FinanceTrack.dll
+C:\Users\chion\OneDrive\Desktop\FinanceTrack\FinanceTrack\bin\Debug\net8.0\FinanceTrack.pdb
+C:\Users\chion\OneDrive\Desktop\FinanceTrack\FinanceTrack\obj\Debug\net8.0\FinanceTrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chion\OneDrive\Desktop\FinanceTrack\FinanceTrack\obj\Debug\net8.0\FinanceTrack.AssemblyInfoInputs.cache
+C:\Users\chion\OneDrive\Desktop\FinanceTrack\FinanceTrack\obj\Debug\net8.0\FinanceTrack.AssemblyInfo.cs
+C:\Users\chion\OneDrive\Desktop\FinanceTrack\FinanceTrack\obj\Debug\net8.0\FinanceTrack.csproj.CoreCompileInputs.cache
+C:\Users\chion\OneDrive\Desktop\FinanceTrack\FinanceTrack\obj\Debug\net8.0\FinanceTrack.dll
+C:\Users\chion\OneDrive\Desktop\FinanceTrack\FinanceTrack\obj\Debug\net8.0\refint\FinanceTrack.dll
+C:\Users\chion\OneDrive\Desktop\FinanceTrack\FinanceTrack\obj\Debug\net8.0\FinanceTrack.pdb
+C:\Users\chion\OneDrive\Desktop\FinanceTrack\FinanceTrack\obj\Debug\net8.0\FinanceTrack.genruntimeconfig.cache
+C:\Users\chion\OneDrive\Desktop\FinanceTrack\FinanceTrack\obj\Debug\net8.0\ref\FinanceTrack.dll
